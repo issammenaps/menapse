@@ -1,0 +1,78 @@
+{
+    "section_1": {
+        "title": "<h2>Being successful</h2>",
+        "content": "<p>as a team is our main source of motivation. By taking care of each of our employees individually, we have the intimate conviction that this will have a positive impact on the group. Cultivating the diversity of each individual will create a real collective wealth.</p>"
+    },
+    "section_2": {
+        "icons": [
+            {
+                "icon": "/Picto-1-La-vie-V2.png",
+                "description": "Parity",
+                "subDescription": "Men / Women"
+            },
+            {
+                "icon": "/Picto-4-La-vie-chez-V2.png",
+                "description": "Flexibility",
+                "subDescription": "On-site / Remote"
+            },
+            {
+                "icon": "/Picto-5-La-vie-chez-V2.png",
+                "description": "74%",
+                "subDescription": "Of employees trained each / year"
+            },
+            {
+                "icon": "/Picto-3-La-vie-chez-V2.png",
+                "description": "9 nations",
+                "subDescription": "Represented"
+            },
+            {
+                "icon": "/Picto-2-La-vie-chez-V2.png",
+                "description": "34 years old",
+                "subDescription": "Average age"
+            }
+        ],
+        "image": "/Diamant-Vie-chez.png"
+    },
+    "section_3": {
+        "section_1": {
+            "title": "<h2>What if you changed your life </h2>",
+            "content": "by joining our teams?"
+        },
+        "section_2": {
+            "icon": "/Puce2.png",
+            "you_will_find": {
+                "title": "YOU WILL FIND",
+                "items":[
+                "A RESULT oriented culture", 
+                "A real flexibility of work" ,
+                "A diversity of profiles",
+                "Intrapreneurs",
+                "A pool of training / webinars at your disposal",
+                "International mobility",
+                "The development of our own business tools",
+                "Many lunch games (Pinball / Blind test / Pictionary ….)",
+                "Fresh fruit, coffee and tea at will"
+            ]},
+            "you_wont_find": {
+                "title": "YOU WON’T FIND",
+                "items": [
+                "A dedicated office",
+                "A sales person",
+                "Management by the numbers",
+                "Boxes: of organization charts",
+                "Time clocks",
+                "Strict schedules",
+                "Fixed days of remote work",
+                "Pyramidal organization"
+            ]}
+        }
+    },
+    "section_4": {
+        "content": "<p>At MENAPS we work on trust. It is essential to have real results.", 
+         "title": "<h2>Our success is you.</h2>"       
+    },
+    "section_5": {
+        "title": "<h2>Want to join us?</h2>",
+        "content": "<p>You can also submit an unsolicited application, we will systematically respond.</p>"
+    }
+}

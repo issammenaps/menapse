@@ -1,0 +1,26 @@
+{
+    "pages": [
+        {
+            "id": 1,
+            "title": "index",
+            "content": {
+                "type": "Card",
+                "id": 1,
+                "category": "CONTAINER",
+                "childrens": [
+                    {
+                        "type": "Button",
+                        "category": "ATOMIC",
+                        "props": {
+                            "title": "click me!"
+                        }
+                    },
+                    {
+                        "type": "Card",
+                        "category": "CONTAINER"
+                    }
+                ]
+            }
+        }
+    ]
+}

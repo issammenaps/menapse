@@ -1,0 +1,35 @@
+{
+    "section_1":{
+        "title": "<h2>Unsolicited application</h2>",
+        "content": "<p>You are interested to join us but none of our online offers meet your expectations  Don't worry, we analyze all applications and provide a personalized response</p>",
+        "image": "/Diamant-Vie-chez.png"
+    },
+    "section_2": {
+        "title": "<h2>CV Vidéo</h2>",
+        "content": "<p>Some tips for recording a video for application:</p>"
+    },
+    "section_3": 
+        [
+            {"step": "/1.png",
+            "descreption":" Sit down in a quiet place"
+            },
+            {"step": "/2.png",
+            "descreption":"Share with us clearly your project and your expertise in a clear and simple way"
+            },
+            {"step": "/3.png",
+            "descreption":" Tell us how you think you contribute positively by joining our team our team"
+            },
+            {"step": "/4.png",
+            "descreption":"Be yourself"
+            },
+            {"step": "/5.png",
+            "descreption":"Please tell us about your availability, as well as your work rhythm"
+            }
+        
+        ],
+        "section_4": {
+            "title": "<h2>Interested</h2>",
+            "content": "<p>in our news?</p>"
+        }
+
+}

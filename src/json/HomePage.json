@@ -1,0 +1,35 @@
+{
+    "section_1": {
+        "title": "<h2>What makes us <br> different?</H2>",
+        "content": "<p>We combine our business expertise with our technological mastery and data in order to bring you sustainable and innovative solutions.</p>"
+    },
+    "section_2": {
+        "title": "<h2>Our values of excellence and <br> respect </H2>",
+        "content": "<p>guide our actions and the way we work with our clients, partners and collaborators. Our values allow us to surpass ourselves on a daily basis.</p>"
+    },
+    "section_3": {
+        "title": "<h2>Make us your privileged <br> ally</H2>",
+        "content": "<p>As each company is unique, and each project has its own unique set of challenges and opportunities, we are ready to intervene at any stage of the construction process by providing our team of business experts.</p>",
+        "image": "/hands.png"
+    },
+    "section_4": {
+        "title": "<h2>You can trust <br> us </H2>",
+        "content": "<p>We offer you a tailor-made support and have a strong expertise in the industry.</p>"
+    },
+    "section_5": {
+        "title": "<h2>Our talents are <br> at your service</H2>",
+        "content": "<p>At the heart of technology, our team designs, develops and improves each of your tools.</p>",
+        "image": "/Galerie-talents.png"
+
+    },
+    "section_6": {
+        "title": "<h2>What if we carried <br> your project? </h2>",
+        "content": "<p>Do you need human or technological resources to mature your ideas?</p>"
+    },
+    "section_7": {
+        "title": "<h2>Contact us</H2>",
+        "content": "<p>To discuss your challenges in detail.</p>",
+        "image": "/bulle.png"
+    }
+    
+}

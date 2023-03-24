@@ -1,0 +1,62 @@
+{
+    "section_1": {
+        "title": "<h2>Our business</h2>",
+        "content": "<p>Because we believe that individual human value creates real collective strength, we surround ourselves with the best talents.</p>"
+    },
+    "section_2":[
+
+        
+        {
+            "picture": "/Theo-buste.png",
+            "speciality":"Agile project management"
+        },
+        {
+            "picture": "/Photo-Jessica-metiers.png",
+            "speciality":"Development"
+        },
+        {
+            "picture": "/Evelyn-metiers.png",
+            "speciality":"Data Science"
+        },
+        {
+            "picture": "/Atef-Metiers.png",
+            "speciality":"Cloud Solution"
+        },
+        {
+            "picture": "/Vikas-metiers-MAJ.png",
+            "speciality":"Cybersecurity"
+        },
+        {
+            "picture": "/Barbara-metiers.png",
+            "speciality":"Configuration management"
+        },
+        {
+            "picture": "/Christy.png",
+            "speciality":"Quality Engineer"
+        },
+        {
+            "picture": "/Patrice-metiers.png",
+            "speciality":"Change Management"
+        },
+        {
+            "picture": "/Hamdi-metiers-1.png",
+            "speciality":"Digital Strategy"
+        },
+        {
+            "picture": "/Celia-Metiers-2.png",
+            "speciality":"Recruitment"
+        },
+        {
+            "picture": "/Moi-Comm-metiers.png",
+            "speciality":"Communication Strategy"
+        },
+        {
+            "picture": "/Nadia-metiers.png",
+            "speciality":"Human Ressources"
+        }
+    ],
+    "section_3": {
+        "title": "<h2>Do you fit/find yourself</h2>",
+        "content": "<p>into one of these profiles? Do not hesitate to join us.</p>"
+    }
+}
